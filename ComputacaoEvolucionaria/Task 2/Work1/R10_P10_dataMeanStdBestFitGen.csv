@@ -1,10 +1,10 @@
  Status ;Valores
-Std(Low);-1.523
-Fitness(Mean);4.292
-Std(High);10.107
-x1(Mean);0.994
-x1(Std);0.223
-x2(Mean);2.202
-x2(Std);0.357
-x3(Mean);3.004
-x3(Std);0.119
+Std(Low);-1.132
+Fitness(Mean);9.467
+Std(High);20.066
+x1(Mean);1.068
+x1(Std);0.428
+x2(Mean);2.118
+x2(Std);0.437
+x3(Mean);2.909
+x3(Std);0.329
