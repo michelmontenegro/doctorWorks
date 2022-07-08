@@ -1,0 +1,51 @@
+
+
+ === Turma S.I === 
+=>Terca
+---->16-18: Estagiario.
+=>Quarta
+---->14-16: Claudomiro.
+---->08-10: Michel.
+=>Quinta
+---->10-11: Claudomiro.
+=>Sexta
+---->16-18: Michel.
+---->16-18: Estagiario.
+
+
+ === Turma E.C === 
+=>Segunda
+---->10-11: Claudomiro.
+=>Quarta
+---->14-16: Estagiario.
+=>Quinta
+---->16-18: Michel.
+---->16-18: Estagiario.
+=>Sexta
+---->10-11: Claudomiro.
+---->14-16: Michel.
+
+
+ === Turma J.D === 
+=>Segunda
+---->10-11: Michel.
+---->10-11: Claudomiro.
+=>Terca
+---->10-11: Claudomiro.
+---->16-18: Michel.
+=>Quinta
+---->08-10: Estagiario.
+---->16-18: Estagiario.
+
+
+ === Turma A.S === 
+=>Segunda
+---->16-18: Claudomiro.
+---->16-18: Michel.
+=>Terca
+---->14-16: Michel.
+=>Quarta
+---->14-16: Claudomiro.
+=>Sexta
+---->16-18: Estagiario.
+---->10-11: Estagiario.

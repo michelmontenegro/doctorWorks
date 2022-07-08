@@ -1,7 +1,7 @@
  Status ;Valores
-Std(Low);-0.38
-Fitness(Mean);0.42
-Std(High);1.22
+Std(Low);0.24
+Fitness(Mean);1.22
+Std(High);2.2
 x1(Mean);[]
 x1(Std);[]
 x2(Mean);[]
