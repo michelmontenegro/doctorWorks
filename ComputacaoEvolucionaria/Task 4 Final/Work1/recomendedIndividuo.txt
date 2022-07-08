@@ -1,51 +1,65 @@
+Fitness: 0.02
 
 
  === Turma S.I === 
+=>Segunda
+---->08-10: Estagiario
 =>Terca
----->16-18: Estagiario.
-=>Quarta
----->14-16: Claudomiro.
----->08-10: Michel.
+---->08-10: Claudomiro
+---->14-16: Michel
 =>Quinta
----->10-11: Claudomiro.
+---->16-18: Claudomiro
+---->16-18: Michel
 =>Sexta
----->16-18: Michel.
----->16-18: Estagiario.
+---->08-10: Estagiario
+
+
+[[0, 0, 2], [1, 0, 0], [1, 2, 1], [3, 3, 0], [3, 3, 1], [4, 0, 2]]
 
 
  === Turma E.C === 
 =>Segunda
----->10-11: Claudomiro.
+---->16-18: Claudomiro
+=>Terca
+---->08-10: Michel
 =>Quarta
----->14-16: Estagiario.
+---->14-16: Claudomiro
+---->16-18: Estagiario
 =>Quinta
----->16-18: Michel.
----->16-18: Estagiario.
-=>Sexta
----->10-11: Claudomiro.
----->14-16: Michel.
+---->10-11: Michel
+---->08-10: Estagiario
+
+
+[[0, 3, 0], [1, 0, 1], [2, 2, 0], [2, 3, 2], [3, 1, 1], [3, 0, 2]]
 
 
  === Turma J.D === 
 =>Segunda
----->10-11: Michel.
----->10-11: Claudomiro.
+---->14-16: Claudomiro
 =>Terca
----->10-11: Claudomiro.
----->16-18: Michel.
-=>Quinta
----->08-10: Estagiario.
----->16-18: Estagiario.
+---->14-16: Claudomiro
+---->16-18: Michel
+---->10-11: Estagiario
+=>Quarta
+---->08-10: Estagiario
+=>Sexta
+---->08-10: Michel
+
+
+[[0, 2, 0], [1, 2, 0], [1, 3, 1], [1, 1, 2], [2, 0, 2], [4, 0, 1]]
 
 
  === Turma A.S === 
 =>Segunda
----->16-18: Claudomiro.
----->16-18: Michel.
+---->10-11: Michel
 =>Terca
----->14-16: Michel.
+---->10-11: Estagiario
 =>Quarta
----->14-16: Claudomiro.
+---->08-10: Claudomiro
+---->14-16: Estagiario
 =>Sexta
----->16-18: Estagiario.
----->10-11: Estagiario.
+---->10-11: Claudomiro
+---->10-11: Michel
+
+
+[[0, 1, 1], [1, 1, 2], [2, 0, 0], [2, 2, 2], [4, 1, 0], [4, 1, 1]]
